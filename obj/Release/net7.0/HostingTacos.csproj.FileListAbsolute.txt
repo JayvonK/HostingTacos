@@ -31,3 +31,8 @@ C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\obj\Release\net7.0\HostingTacos.pdb
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\obj\Release\net7.0\HostingTacos.genruntimeconfig.cache
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\obj\Release\net7.0\ref\HostingTacos.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\bin\Release\net7.0\publish\web.config
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\bin\Release\net7.0\publish\appsettings.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\bin\Release\net7.0\publish\HostingTacos.deps.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week4\HostingTacos\bin\Release\net7.0\publish\HostingTacos.runtimeconfig.json
